@@ -11,6 +11,7 @@ node_modules
 dist
 dist-ssr
 *.local
+services
 api-client.ts
 
 # Editor directories and files
